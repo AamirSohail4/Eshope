@@ -1,0 +1,93 @@
+.company-information-section {
+	padding: 100px 20px;
+	display: flex;
+	line-height: 2;
+	flex-wrap: wrap;
+}
+.company-information-section ul {
+	list-style: none;
+}
+
+.company-information-inner-section1 {
+	width: 20%;
+}
+.company-information-inner-section2 {
+	width: 15%;
+}
+.company-information-inner-section3 {
+	width: 15%;
+}
+.company-information-inner-section4 {
+	width: 15%;
+}
+.company-information-inner-section5 {
+	width: 35%;
+}
+input.footer-serch-bar {
+	padding: 13px 50px;
+	outline: none;
+	border: 1px solid gainsboro;
+	border-bottom-left-radius: 11px;
+	border-top-left-radius: 11px;
+}
+button.btn-serach {
+	padding: 13px 23px;
+	background-color: blue;
+	color: white;
+	border: none;
+	border-top-right-radius: 28px;
+	border-bottom-right-radius: 28px;
+}
+company-info-mobile:hover {
+	color: blue;
+}
+.news-leter-section {
+	padding-bottom: 39px;
+}
+.company-info-icon-section svg {
+	background-color: blue;
+	color: white;
+	width: 30px;
+	height: 31px;
+	cursor: pointer;
+}
+.company-info-icon-section {
+	display: flex;
+	flex-flow: row;
+	gap: 7px;
+}
+
+.footer-section {
+	width: 100%;
+	background-color: blue;
+	color: white;
+	height: 60px;
+	padding: 20px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	align-items: center;
+	height: 10%;
+}
+.right-footer-section {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 5px;
+}
+.smart-car-footer {
+	width: 50px;
+}
+.smart-car-footer img {
+	height: 100%;
+	width: 100%;
+}
+.left-footer-section ul {
+	list-style: none;
+	display: flex;
+	flex-wrap: wrap;
+	gap: 20px;
+	align-items: center;
+}
+smart-car-footer {
+	width: 50px;
+}
